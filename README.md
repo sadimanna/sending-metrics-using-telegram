@@ -1,6 +1,7 @@
 # tweaking_with_telegram
 
-# 1. Getting updates on ongoing Deep Learning model training, remotely on your device, using Telegram bot
+# Project 1
+## 1. Getting updates on ongoing Deep Learning model training, remotely on your device, using Telegram bot
 
 This article is not actually a tutorial on “How to send messages using Telegram bot to your device” 
 but that part has been covered too (you can find lots of better tutorial on the web on that topic). 
@@ -20,4 +21,6 @@ https://gist.github.com/stared/dfb4dfaf6d9a8501cd1cc8b8cb806d2e
 
 https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
 
-# 2. Controlling model training using Telegram bot from remote device
+## 2. Exception Message via Telegram bot
+
+Get message if an exception occurs in your program
