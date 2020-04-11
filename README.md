@@ -8,4 +8,16 @@ This article aims at showing a simple implementation of how the above mentioned 
 to send regular updates to your device, when you are not directly observing your Deep Learning model training, 
 running on a remote machine, or not present in your Lab to keep an eye on the training progress and statistics.
 
+References :
+
+https://core.telegram.org/bots/api
+
+https://www.tensorflow.org/guide/keras/custom_callback#model_methods_that_take_callbacks
+
+https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e
+
+https://gist.github.com/stared/dfb4dfaf6d9a8501cd1cc8b8cb806d2e
+
+https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+
 # 2. Controlling model training using Telegram bot from remote device
