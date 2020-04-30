@@ -1,7 +1,7 @@
 import requests
 import time
 
-access_token = '1094213176:AAFPM2lzoWH_fvQXgDjUtluJCctamMp5Ax0'
+access_token = ''
 
 class TGBot(object):
 	def __init__(self, access_token):
