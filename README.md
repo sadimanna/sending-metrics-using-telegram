@@ -1,7 +1,7 @@
-# tweaking_with_telegram
+# Medium Articles
 
-# Project 1
-## 1. Getting updates on ongoing Deep Learning model training, remotely on your device, using Telegram bot
+# Project 1 : Telegram
+## 1. Using Telegram bot to receive Deep Learning model training updateson your mobile device
 
 This article is not actually a tutorial on “How to send messages using Telegram bot to your device” 
 but that part has been covered too (you can find lots of better tutorial on the web on that topic). 
